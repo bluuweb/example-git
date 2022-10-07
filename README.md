@@ -1,4 +1,4 @@
-# Proyecto de ejemplo
+# Proyecto web
 
 ## un subtitulo
 
